@@ -48,3 +48,5 @@ with mp_hands.Hands(min_detection_confidence = 0.5, min_tracking_confidence = 0.
 #     cv2.imshow("Frame", img)
 #     # showing frame for atleast 1ms
 #     cv2.waitKey(1)
+
+# test comment
